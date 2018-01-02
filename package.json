@@ -1,0 +1,19 @@
+{
+ "name": "bee-test",
+ "version": "1.0.1",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "pub": "bee-tools run pub"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/HuYuee/bee-test.git"
+ },
+ "author": "",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/HuYuee/bee-test/issues"
+ },
+ "homepage": "https://github.com/HuYuee/bee-test#readme"
+}
